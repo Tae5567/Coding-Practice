@@ -1,2 +1,2 @@
 # Coding-Practice
-Questions and algorithms to build my skill as a software engineer
+Algorithm and problem-solving practice (C++, Python, JavaScript)
